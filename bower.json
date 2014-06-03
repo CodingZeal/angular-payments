@@ -1,6 +1,7 @@
 {
   "name": "angular-payments",
   "version": "0.1.0",
+  "main": "angular-payments.min.js",
   "homepage": "https://github.com/laurihy/angular-payments",
   "authors": [
     "Lauri Hynynen <@laurihy>"
